@@ -22,13 +22,21 @@ The following is a recent memory analysis report for the program:
 [... execution output ...]
 
 ==56512== 
+
 ==56512== HEAP SUMMARY:
+
 ==56512==     in use at exit: 0 bytes in 0 blocks
+
 ==56512==   total heap usage: 1,312 allocs, 1,312 frees, 105,763 bytes allocated
+
 ==56512== 
+
 ==56512== All heap blocks were freed -- no leaks are possible
+
 ==56512== 
+
 ==56512== For lists of detected and suppressed errors, rerun with: -s
+
 ==56512== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 
 ## **Potential Technical Improvements:**
