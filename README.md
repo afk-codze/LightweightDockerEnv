@@ -4,9 +4,9 @@ A lightweight container runtime, It offers the core essentials of Docker-like fu
 ## **How to run the program**
 The program can be run using the following syntax:
 
-./name_of_program run <image> <command> <arg1> <arg2> ...
+Usage: ./name_of_program run &lt;image&gt; &lt;command&gt; &lt;arg1&gt; &lt;arg2&gt; ...
 
-Replace <image>, <command>, <arg1>, and <arg2> with the appropriate arguments based on your requirements.
+Replace &lt;image&gt;, &lt;command&gt;, &lt;arg1&gt;, and &lt;arg2&gt; with the appropriate arguments based on your requirements.
 
 ## **Valgrind report**
 The following is a recent memory analysis report for the program: 
