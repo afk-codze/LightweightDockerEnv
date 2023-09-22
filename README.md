@@ -8,6 +8,8 @@ Usage: ./name_of_program run &lt;image&gt; &lt;command&gt; &lt;arg1&gt; &lt;arg2
 
 Replace &lt;image&gt;, &lt;command&gt;, &lt;arg1&gt;, and &lt;arg2&gt; with the appropriate arguments based on your requirements.
 
+**Example:**  sudo ./app run library/nginx bin/ls -l
+
 ## **Valgrind report**
 The following is a recent memory analysis report for the program: 
 
