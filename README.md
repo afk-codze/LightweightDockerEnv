@@ -9,7 +9,7 @@ The program can be run using the following syntax:
 Replace <image>, <command>, <arg1>, and <arg2> with the appropriate arguments based on your requirements.
 
 ## **Valgrind report
-The following is a recent memory analysis report for the program:
+The following is a recent memory analysis report for the program: 
 ==56512== Memcheck, a memory error detector
 ==56512== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
 ==56512== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
